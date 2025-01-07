@@ -1,6 +1,7 @@
 .container {
     border: 1px solid black;
-    height: 30px;
+    height: 60px;
+    width: 100px;
     position: relative;
-    float:right;
+    float:center;
 }
